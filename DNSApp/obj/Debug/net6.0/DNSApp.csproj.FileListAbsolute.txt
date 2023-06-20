@@ -1,0 +1,34 @@
+D:\Docs\UTM Folder\Anul 3\PR\Lab3\DNSApp\DNSApp\bin\Debug\net6.0\DNSApp.exe
+D:\Docs\UTM Folder\Anul 3\PR\Lab3\DNSApp\DNSApp\bin\Debug\net6.0\DNSApp.deps.json
+D:\Docs\UTM Folder\Anul 3\PR\Lab3\DNSApp\DNSApp\bin\Debug\net6.0\DNSApp.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\PR\Lab3\DNSApp\DNSApp\bin\Debug\net6.0\DNSApp.dll
+D:\Docs\UTM Folder\Anul 3\PR\Lab3\DNSApp\DNSApp\bin\Debug\net6.0\DNSApp.pdb
+D:\Docs\UTM Folder\Anul 3\PR\Lab3\DNSApp\DNSApp\bin\Debug\net6.0\DnsClient.dll
+D:\Docs\UTM Folder\Anul 3\PR\Lab3\DNSApp\DNSApp\obj\Debug\net6.0\DNSApp.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\PR\Lab3\DNSApp\DNSApp\obj\Debug\net6.0\DNSApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\PR\Lab3\DNSApp\DNSApp\obj\Debug\net6.0\DNSApp.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\PR\Lab3\DNSApp\DNSApp\obj\Debug\net6.0\DNSApp.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\PR\Lab3\DNSApp\DNSApp\obj\Debug\net6.0\DNSApp.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\PR\Lab3\DNSApp\DNSApp\obj\Debug\net6.0\DNSApp.csproj.CopyComplete
+D:\Docs\UTM Folder\Anul 3\PR\Lab3\DNSApp\DNSApp\obj\Debug\net6.0\DNSApp.dll
+D:\Docs\UTM Folder\Anul 3\PR\Lab3\DNSApp\DNSApp\obj\Debug\net6.0\refint\DNSApp.dll
+D:\Docs\UTM Folder\Anul 3\PR\Lab3\DNSApp\DNSApp\obj\Debug\net6.0\DNSApp.pdb
+D:\Docs\UTM Folder\Anul 3\PR\Lab3\DNSApp\DNSApp\obj\Debug\net6.0\DNSApp.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\PR\Lab3\DNSApp\DNSApp\obj\Debug\net6.0\ref\DNSApp.dll
+C:\Users\User\Desktop\PR\PR_LB3\DNSApp\bin\Debug\net6.0\DNSApp.exe
+C:\Users\User\Desktop\PR\PR_LB3\DNSApp\bin\Debug\net6.0\DNSApp.deps.json
+C:\Users\User\Desktop\PR\PR_LB3\DNSApp\bin\Debug\net6.0\DNSApp.runtimeconfig.json
+C:\Users\User\Desktop\PR\PR_LB3\DNSApp\bin\Debug\net6.0\DNSApp.dll
+C:\Users\User\Desktop\PR\PR_LB3\DNSApp\bin\Debug\net6.0\DNSApp.pdb
+C:\Users\User\Desktop\PR\PR_LB3\DNSApp\bin\Debug\net6.0\DnsClient.dll
+C:\Users\User\Desktop\PR\PR_LB3\DNSApp\obj\Debug\net6.0\DNSApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PR\PR_LB3\DNSApp\obj\Debug\net6.0\DNSApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PR\PR_LB3\DNSApp\obj\Debug\net6.0\DNSApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PR\PR_LB3\DNSApp\obj\Debug\net6.0\DNSApp.AssemblyInfo.cs
+C:\Users\User\Desktop\PR\PR_LB3\DNSApp\obj\Debug\net6.0\DNSApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PR\PR_LB3\DNSApp\obj\Debug\net6.0\DNSApp.csproj.CopyComplete
+C:\Users\User\Desktop\PR\PR_LB3\DNSApp\obj\Debug\net6.0\DNSApp.dll
+C:\Users\User\Desktop\PR\PR_LB3\DNSApp\obj\Debug\net6.0\refint\DNSApp.dll
+C:\Users\User\Desktop\PR\PR_LB3\DNSApp\obj\Debug\net6.0\DNSApp.pdb
+C:\Users\User\Desktop\PR\PR_LB3\DNSApp\obj\Debug\net6.0\DNSApp.genruntimeconfig.cache
+C:\Users\User\Desktop\PR\PR_LB3\DNSApp\obj\Debug\net6.0\ref\DNSApp.dll
